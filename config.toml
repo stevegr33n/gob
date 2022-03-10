@@ -1,5 +1,5 @@
-baseURL = 'http://www.greengob.com/'
+baseURL = 'http://greengob.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'greengob blog'
 theme = 'ananke'
 publishDir = 'docs'

@@ -23,11 +23,11 @@ I frequently played with a friend called Kieran, and we wanted to reach the next
 > Me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hey, what will we do after we reach the next rank?  
 > Kieran: &nbsp;&nbsp;&nbsp;We will... reach the next one?
 
-At some point I begun to question the point of what I was doing. I was spending hours every day sitting at my desk staring at a glowing rectangle. I was in my physical prime, and this is what I was choosing to do? Surely, the only way this makes sense is if I’m getting paid for it. Exchanging my youth for notes of paper with my Queen on it, sign me up - why question that. But I wasn’t getting paid and this wasn’t just taking up some of my time. It didn’t just consume the hours I spent playing. It consumed my thoughts. I’d be drifting off to sleep and be replaying matches in my head. I’d take a shower and theory craft a strategy. I’d eat lunch and read patch notes. I’d ride a train and watch Twitch streams. Well, you might be thinking isn’t this all a bit of a waste of time? Yes how very observant of you, how astute - but here’s the thing; to paraphrase a pro player [“nobody cared until I won millions of dollars.”](https://www.bbc.co.uk/news/technology-49471963) I was nowhere near going pro or winning prize money. I was however struggling with the concept of what exactly a waste of time is.
+At some point I begun to question the point of what I was doing. I was spending hours every day sitting at my desk staring at a glowing rectangle. I was in my physical prime, and this is what I was choosing to do? Surely, the only way this makes sense is if I’m getting paid for it. Exchanging my youth for notes of paper with my Queen on it, sign me up - why question that. But I wasn’t getting paid and this wasn’t just taking up some of my time. It didn’t just consume the hours I spent playing. It consumed my thoughts. I’d be drifting off to sleep and be replaying matches in my head. I’d take a shower and theory craft a strategy. I’d eat lunch and read Dota 2 patch notes. I’d ride a train and watch Twitch streams. Well, you might be thinking isn’t this all a bit of a waste of time? Yes how very observant of you, how astute - but here’s the thing; to paraphrase a pro player [“nobody cared until I won millions of dollars.”](https://www.bbc.co.uk/news/technology-49471963). I was nowhere near going pro or winning prize money. I was however struggling with the concept of what exactly a waste of time is. I was wasting my time playing this game. Yet, if I were making millions playing this game, then it's a good use of time? 
 
-Time you enjoy wasting is not wasted time, right? And I was enjoying myself, mostly. But there were times when I was most certainly not enjoying myself. I’d be thoroughly not enjoying myself and yet, continue playing anyway. What’s with that? How can I not have fun whilst playing, I’m _playing_.
+Time you enjoy wasting is not wasted time, right? And I was enjoying myself, mostly. But there were times when I was most certainly not enjoying myself. I’d be thoroughly not enjoying myself and yet, continue playing anyway. What’s with that? How can I not have fun whilst I'm playing, I’m _playing_.
 
-I made a new game - the rules of the new game were simple. The new game was to not play the old game.  
+I made a new game. The new game is simple. The aim of the new game is not to play the old game.  
 First step: uninstall the old game.
 
 Reinstall the old game.  
@@ -35,7 +35,7 @@ Play.
 Play.  
 _Play_.
 
-Uninstall for real this time.
+Uninstall, for real this time.
 
 Reinstall.  
 Play.  
@@ -50,7 +50,7 @@ Play.
 
 ![the genius of the hole](/img/the-genius-of-the-hole.png)
 
-Hey look - I’m me, _I_ make the decisions around here. What _I_ say goes. Today I’m not playing. OK, I played today - but tomorrow is another day and I won't tomorrow. OK, I played tomorrow too - what an odd sensation, not wanting to do something and then doing it anyway. Perhaps more often than not, I'm just a passenger in meat sack.
+Hey look - I’m me, _I_ make the decisions around here. What _I_ say goes. Today I’m not playing. OK, I played today - but tomorrow is another day and I won't tomorrow. OK, I played tomorrow too. What an odd sensation, not wanting to do something and yet doing it anyway. Perhaps more often than not, I'm just a passenger in meat sack.
 
 # Music
 [![](https://img.youtube.com/vi/GMtFwK4vnNE/default.jpg)](https://youtu.be/GMtFwK4vnNE)

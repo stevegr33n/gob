@@ -1,7 +1,7 @@
 baseURL = 'http://blog.greengob.com/'
 languageCode = 'en-us'
 title = 'greengob'
-theme = 'archie'
+theme = 'gob-theme'
 publishDir = 'docs'
 contentdir = 'content'
 publishdir = 'public'

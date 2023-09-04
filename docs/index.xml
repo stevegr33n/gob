@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>greengob</title>
+    <link>http://blog.greengob.com/</link>
+    <description>Recent content on greengob</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://blog.greengob.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steve Green</title>
+      <link>http://blog.greengob.com/about/</link>
+      <pubDate>Fri, 10 Mar 2023 22:04:27 +0000</pubDate>
+      
+      <guid>http://blog.greengob.com/about/</guid>
+      <description>Hello I&amp;rsquo;m Steve Green, this is where I write stuff.
+I&amp;rsquo;ve written software for CircleCI, LLoyds Bank and One Of Us.
+Send memes to steve@greengob.com</description>
+    </item>
+    
+    <item>
+      <title>CircleCI&#39;s 20 Why&#39;s</title>
+      <link>http://blog.greengob.com/posts/2023/2022/2022-09-13-circlecis-20-whys/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.greengob.com/posts/2023/2022/2022-09-13-circlecis-20-whys/</guid>
+      <description>Let’s put ourselves in the shoes of a CircleCI customer. Probably a trusty pair of Birkenstocks. They login and they’re greeted with a “Dashboard” which looks a little something like this:
+I’m going to dissect this page, feel free to open up https://app.circleci.com as your own user if that’s easier to follow. Let&amp;rsquo;s hone in on a section of this page:
+To the left of the word “Dashboard” is a sort of, broken mirror icon.</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s all my fault</title>
+      <link>http://blog.greengob.com/posts/2023/2021/2021-10-27-its-all-my-fault/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.greengob.com/posts/2023/2021/2021-10-27-its-all-my-fault/</guid>
+      <description>I specifically stated that I wouldn’t do this. I stated that if I wrote about this, then I’d consider my goal of “writing things” a failure. This was supposed to be technical blog damn it! Well, I figure goals are like rules. Sometimes you gotta bend ‘em and sometimes you gotta break ‘em. Plus, now I get to write about the fuzzy line between addiction and obsession and how to waste your life.</description>
+    </item>
+    
+    <item>
+      <title>He touched my soul long before I knew what his hands felt like</title>
+      <link>http://blog.greengob.com/posts/2023/2021/2021-10-13-he-touched-my-soul-long-before-i-knew-what-his-hands-felt-like/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.greengob.com/posts/2023/2021/2021-10-13-he-touched-my-soul-long-before-i-knew-what-his-hands-felt-like/</guid>
+      <description>Thankfully I’ve never had a long distance romantic relationship. I imagine Zoom isn’t really up to the task of replacing snuggles. A hug emoji isn’t a hug. This had led me to believe that any kind of long distance relationship was inferior to a short distance one. I was wrong.
+How could I bond with my colleagues to any meaningful degree if I couldn’t fist bump them after they deployed a new feature and say “ayyy that was lit fam”?</description>
+    </item>
+    
+    <item>
+      <title>Look Ma, I&#39;m goal setting</title>
+      <link>http://blog.greengob.com/posts/2023/2021/2021-10-04-look-ma-im-goal-setting/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.greengob.com/posts/2023/2021/2021-10-04-look-ma-im-goal-setting/</guid>
+      <description>I’m not really much of a goal setter. I don’t make new years resolutions. I don’t have a budget, I don’t track my workouts and I don’t keep a journal. There’s a quote “What gets measured gets managed” and I don’t measure anything at all. In school I didn’t even like using a ruler. My lines were all wonky and my bar charts made people shriek. But they were still lines and they still worked.</description>
+    </item>
+    
+  </channel>
+</rss>

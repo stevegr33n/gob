@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html><head lang="en">
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>CircleCI&#39;s 20 Why&#39;s - greengob</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Let’s put ourselves in the shoes of a CircleCI customer. Probably a trusty pair of Birkenstocks. They login and they’re greeted with a “Dashboard” which looks a little something like this:
+I’m going to dissect this page, feel free to open up https://app.circleci.com as your own user if that’s easier to follow. Let&rsquo;s hone in on a section of this page:
+To the left of the word “Dashboard” is a sort of, broken mirror icon." />
+	<meta property="og:image" content=""/>
+	<meta property="og:title" content="CircleCI&#39;s 20 Why&#39;s" />
+<meta property="og:description" content="Let’s put ourselves in the shoes of a CircleCI customer. Probably a trusty pair of Birkenstocks. They login and they’re greeted with a “Dashboard” which looks a little something like this:
+I’m going to dissect this page, feel free to open up https://app.circleci.com as your own user if that’s easier to follow. Let&rsquo;s hone in on a section of this page:
+To the left of the word “Dashboard” is a sort of, broken mirror icon." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://blog.greengob.com/posts/2023/2022/2022-09-13-circlecis-20-whys/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-09-13T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-09-13T00:00:00+00:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="CircleCI&#39;s 20 Why&#39;s"/>
+<meta name="twitter:description" content="Let’s put ourselves in the shoes of a CircleCI customer. Probably a trusty pair of Birkenstocks. They login and they’re greeted with a “Dashboard” which looks a little something like this:
+I’m going to dissect this page, feel free to open up https://app.circleci.com as your own user if that’s easier to follow. Let&rsquo;s hone in on a section of this page:
+To the left of the word “Dashboard” is a sort of, broken mirror icon."/>
+<script src="http://blog.greengob.com/js/feather.min.js"></script>
+	
+	
+        <link href="http://blog.greengob.com/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
+	
+
+	
+	<link rel="stylesheet" type="text/css" media="screen" href="http://blog.greengob.com/css/main.ac08a4c9714baa859217f92f051deb58df2938ec352b506df655005dcaf98cc0.css" />
+		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="http://blog.greengob.com/css/dark.726cd11ca6eb7c4f7d48eb420354f814e5c1b94281aaf8fd0511c1319f7f78a4.css"   />
+	
+
+	
+	
+		<script type="text/javascript"
+		src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+		</script>
+	
+		
+		<script type="text/x-mathjax-config">
+		MathJax.Hub.Config({
+			tex2jax: {
+				inlineMath: [['$','$'], ['\\(','\\)']],
+				displayMath: [['$$','$$'], ['\[','\]']],
+				processEscapes: true,
+				processEnvironments: true,
+				skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+				TeX: { equationNumbers: { autoNumber: "AMS" },
+						 extensions: ["AMSmath.js", "AMSsymbols.js"] }
+			}
+		});
+		</script>
+	
+
+	
+	
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css">
+		<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.js"></script>
+		<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+		
+		
+		<script>
+			document.addEventListener("DOMContentLoaded", function() {
+					renderMathInElement(document.body, {
+							delimiters: [
+									{left: "$$", right: "$$", display: true},
+									{left: "$", right: "$", display: false}
+							]
+					});
+			});
+			</script>
+	
+	
+	
+</head>
+<body>
+        <div class="content"><header>
+	<div class="main">
+		<a href="http://blog.greengob.com/">greengob</a>
+	</div>
+	<nav>
+		
+		<a href="/">Home</a>
+		
+		<a href="/posts">All posts</a>
+		
+		<a href="/about">About</a>
+		
+		<a href="/tags">Tags</a>
+		
+		
+	</nav>
+</header>
+
+<main>
+	<article>
+		<div class="title">
+			<h1 class="title">CircleCI&#39;s 20 Why&#39;s</h1>
+			<div class="meta">Posted on Sep 13, 2022</div>
+		</div>
+		
+
+		<section class="body">
+			<p>Let’s put ourselves in the shoes of a CircleCI customer. Probably a trusty pair of Birkenstocks. They login and they’re greeted with a “Dashboard” which looks a little something like this:</p>
+<p><img src="/img/20-whys/0.png" alt="zero"></p>
+<p>I’m going to dissect this page, feel free to open up <a href="https://app.circleci.com">https://app.circleci.com</a> as your own user if that’s easier to follow. Let&rsquo;s hone in on a section of this page:</p>
+<ol>
+<li></li>
+</ol>
+<p><img src="/img/20-whys/1.png" alt="first"></p>
+<ol>
+<li>To the left of the word “Dashboard” is a sort of, broken mirror icon. Is this icon supposed to refer to the “Dashboard”? If so, why is this broken mirror icon also next to the words “All Pipelines” on the righthand side?</li>
+<li>Why do we have “Dashboard” written here? We already know we’re on the “Dashboard”, it’s highlighted on the left, do we need it written again?</li>
+<li>Why do we have “All Pipelines” written in a small font, and then “All Pipelines” written again in a slightly bigger font? Do we need it written twice?</li>
+<li>Why not go for a hat-trick and call this dropdown “All Pipelines” too? Also, there is only one user in this organisation, why can I toggle between “Everyone’s Pipelines” and “My Pipelines” - they’re all me.</li>
+<li>Oh CI behind my firewall just got easier, that’s great. Do I have to read this message forever, isn’t this something that I should be able to dismiss, like a notification? If it were a notification, can I opt out of receiving it and others like it?</li>
+</ol>
+<p><img src="/img/20-whys/2.png" alt="second"></p>
+<ol start="6">
+<li>If I click on the “Notifications” tab it opens a popup with a header called “Notifications”. Do we really need that second “Notifications” header? Oh sweet I’m all caught up! Uh, what kind of stuff even goes here? Am I supposed to keep an eye on this or something? Can I see previous notifications? Can I turn them off? Can I get notified by email instead? Why isn’t the message about “CI behind your firewall just got easier” here?</li>
+</ol>
+<p><img src="/img/20-whys/3.png" alt="three"></p>
+<ol start="7">
+<li>If I hover over the redundant “Dashboard” text it tells me what “Pipelines” are. Shouldn’t the redundant “Dashboard” text tell me what a “Dashboard” is? This is the only text that gives a definition when you hover over it in the entire CircleCI app btw. Well, it looks to me like “Dashboard” and “Pipelines” are the same thing. Can we ditch the concept of a “Dashboard” and just call the tab “Pipelines”?</li>
+</ol>
+<p><img src="/img/20-whys/4.png" alt="four"></p>
+<ol start="8">
+<li>The dropdown options are slightly wider than the dropdown button itself.</li>
+<li>If I click my organisation name in the top left it turns green and opens a dropdown. Why do we have a green pill called “CURRENT” to the right of this organisation’s name? Isn’t it clear “hey-group-b8fa” is my currently selected organisation - I mean it is bright green. Also, to the right of the organisation called “toffeebee” there is a grey pill called “GH”. That stands for GitHub if it wasn’t blindingly obvious. What about “hey-group-b8fa”, where is the grey pill for that?</li>
+<li>Why is “Can’t find an organization?” in black text and “Check permissions” in blue text? Both pieces of text are part of the same button.</li>
+<li>Why is there a divider here? And Why Is Every Word In “Create New Organization” Capitalised?</li>
+<li>This drop down seems like it’s related to organisations, internally we refer to it as “The Org Picker”. Yet I can sign out of my user here? Shouldn’t that be an action related to clicking on my user profile? If we want to keep it here (I don’t think it makes sense to do that) maybe we should put a divider above it?</li>
+</ol>
+<p><img src="/img/20-whys/5.png" alt="five"></p>
+<ol start="13">
+<li>Right below a link called “Docs” is a link called “Orbs&quot;. The “Docs” link goes to our documentation and the “Orbs” link goes to our documentation on Orbs. Why is there a dedicated link to the Orbs documentation here? Is Orbs somehow special from all the other parts of our documentation?</li>
+<li>To access my user settings I have to click a super duper small avatar icon down here, why is it almost hidden away? Shouldn’t we write “User Settings” next to it or something?</li>
+</ol>
+<p>Ok let’s click the super duper small avatar icon to access our user settings:</p>
+<p><img src="/img/20-whys/6.png" alt="six"></p>
+<ol start="15">
+<li>This user has multiple identities; a GitHub identity and an email/password identity which is connected to GitLab. On github.com I updated my GitHub avatar to be a picture of a cartoon dog sitting in a house on fire. Why do we use this GitHub avatar for my user settings and not the GitLab avatar? What if a user had a GitHub, a Bitbucket and a GitLab identity + many other sources of change integrated with their user, why would we use a GitHub avatar here?</li>
+<li>On github.com I updated my GitHub profile name to be “why do we use this”. Ahem, why do we use this GitHub profile name in the “User Settings” page and other parts of CircleCI? GitHub is just an identity but we treat it like it’s a user.</li>
+</ol>
+<p><img src="/img/20-whys/7.png" alt="seven"></p>
+<ol start="17">
+<li>Which email are we changing here? If a customer connected a GitHub, Bitbucket and GitLab identity to their user and clicked this button, which of those email addresses would this button change? Is your answer obvious to the end user?</li>
+</ol>
+<p><img src="/img/20-whys/8.png" alt="eight"></p>
+<ol start="18">
+<li>This “Change Password” button is inside a tab on the left called “Password”. The password that gets changed is associated to the email on the “Email” tab in the picture above. Why are they on separate tabs? Is it obvious they are associated with each other?</li>
+</ol>
+<p><img src="/img/20-whys/9.png" alt="nine"></p>
+<ol start="19">
+<li>I can manage my organisation plans in here? I thought this was the “User Settings” page? Why would this setting be in here?</li>
+</ol>
+<p><img src="/img/20-whys/10.png" alt="ten"></p>
+<ol start="20">
+<li>Oh I can access my organisation’s plan here too. But interestingly I can’t access my organisation’s plan inside the “Organization Settings” tab, but I can access it inside my “User Settings” tab (as long as I click the super duper small avatar icon).</li>
+</ol>
+
+		</section>
+
+		<div class="post-tags">
+			
+			
+			<nav class="nav tags">
+				<ul class="tags">
+					
+					<li><a href="/tags/personal">personal</a></li>
+					
+					<li><a href="/tags/circleci">circleci</a></li>
+					
+				</ul>
+			</nav>
+			
+			
+		</div>
+		<div id="disqus_thread"></div>
+<script type="text/javascript">
+    (function () {
+        
+        
+        if (window.location.hostname == "localhost")
+            return;
+
+        var dsq = document.createElement('script');
+        dsq.type = 'text/javascript';
+        dsq.async = true;
+        var disqus_shortname = 'yourDisqusShortname';
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+        Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a></article>
+</main>
+<footer>
+  <div style="display:flex"><a class="soc" href="https://github.com/stevegr33n" rel="me" title="GitHub"><i data-feather="github"></i></a>
+    <a class="border"></a></div>
+  <div class="footer-info">
+    2023  <a
+      href="https://github.com/athul/archie">Archie Theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
+  </div>
+</footer>
+
+
+<script>
+  feather.replace()
+</script></div>
+    </body>
+</html>

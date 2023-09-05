@@ -9,7 +9,9 @@ I specifically stated that I wouldn’t do this. I stated that if I wrote about 
 
 Back in the summer of 2012 some university friends and I installed a computer game called Dota 2. It started off innocent enough, just another excuse not to study. We already swim in a sea of digital distractions, what's one more? Some friends managed their time better than others. Some fell down the video game hole. Playing and playing until their grades fell down the hole with them. Some dropped out of tuition completely. Yeah drugs are cool, but have you played World of Warcraft?
 
-I played Dota 2 on and off for multiple years. Sometimes I took a break for over a year. Sometimes I played every available hour of every day. I would look at a block of leisure time and calculate how many matches of Dota 2 I could fit in. I didn’t have evenings after work, I had four matches. As I brush my teeth in the mirror before bed, beautifully bloodshot eyes stare back at me.
+![the genius of the hole](/img/the-genius-of-the-hole.png)
+
+I played Dota 2 on and off for multiple years. Sometimes I took a break for over a year. Sometimes I played every available hour of every day. I would look at a block of leisure time and calculate how many matches of Dota 2 I could fit in. I didn’t have evenings after work, I had four matches. I brush my teeth in the mirror before bed, my beautifully bloodshot eyes stare back at me.
 
 > I see the same man every day when I leave my apartment. He sits at the bus stop across the street. He sits there for hours. Most of the time he seems to be asleep, his head nuzzled down into his belly. He’s bald, and he doesn’t wear a hat. On sunny days I can see the sweat beading up on his bare head, frying like a pad of butter. Sometimes, when I pass by he asks me what time it is, and I figure he’s waiting for the bus, but when I come back hours later, he’s still sitting there, sleeping. I wonder if he’s off his meds. I wonder if he’s supposed to be somewhere. Maybe he slept through his bus, or forgot which bus to take. I wonder if he has people waiting for him somewhere, and if they’re worried. I wonder if he needs some help. But I go back up into my apartment, and save the world in a video game. - [Episode 5, A Life Well Wasted](https://alifewellwasted.com)
 
@@ -47,8 +49,6 @@ Uninstall.
 
 Reinstall.  
 Play.
-
-![the genius of the hole](/img/the-genius-of-the-hole.png)
 
 Hey look - I’m me, _I_ make the decisions around here. What _I_ say goes. Today I’m not playing. OK, I played today - but tomorrow is another day and I won't tomorrow. OK, I played tomorrow too. What an odd sensation, not wanting to do something and yet doing it anyway. Perhaps more often than not, I'm just a passenger in meat sack.
 

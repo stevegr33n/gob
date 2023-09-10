@@ -35,6 +35,6 @@ And then I was hit with a deep sense of [is that all there is.](https://www.yout
 
 The shitty web developer company terminated my contract at just under six months.
 
-I accepted a different, slightly less shitty web developer job, for bit more money. I moved into a slightly less shit apartment. It had a lounge.
+I accepted a different, slightly less shitty web developer job, for bit more money. I moved into a slightly less shit apartment; it had a lounge.
 
 [I embraced the fiction, tightly.](https://www.youtube.com/watch?v=FSborxD6avQ)

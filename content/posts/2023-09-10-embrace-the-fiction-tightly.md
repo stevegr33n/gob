@@ -17,15 +17,15 @@ The honeymoon period was over before it started and I could barely bring myself 
 
 On one morning I'm running a little later than my usual unpunctual time. I'm waiting to commute into the city. Waiting for my train, suffering my quiet life of desperation. My train squeals into the platform and the carriage doors open. The commuters are packed like battery hens and none of them attempt to escape. Nobody gets off, so there's no room to get on. The carriage doors close and the train departs. This is London, another will be here momentarily. I will get the next one. I will enter the battery farm. The next train arrives and the carriage doors open. The commuters are crushed like grapes but they produce no wine. The carriage doors close and the train departs.
 
-At this point I am really quite late. I double back, and exit the station. Being late for something you hate is somehow worse than being on time. So I've decided I'm going to be unwell. [Pull a sickie.](https://en.wiktionary.org/wiki/pull_a_sickie) This doesn't fill me with excitement. I don't feel elated about my sudden vacation. I just really geniunely don't want to face another day of this life.
+At this point I am really quite late. I double back, and exit the station. Being late for something you hate is somehow worse than being on time. So I've decided I'm going to be unwell. [Pull a sickie.](https://en.wiktionary.org/wiki/pull_a_sickie) This doesn't fill me with excitement. I don't feel elated about my sudden vacation. I just really genuinely don't want to face another day of this life.
 
 I walk back to my shoddy abode in Camden. I rent a shitty bedroom in a town house with three other struggling saps for half of my salary. There is no lounge. I sit at the small desk in my bedroom and I start watching a film called [Demolition](https://www.imdb.com/title/tt1172049). Now, I will not spoil this film for you, but I will relate to it. This is the synopsis:
 
 > A successful investment banker struggles after losing his wife in a tragic car crash. With the help of a customer service rep and her young son, he starts to rebuild, beginning with the demolition of the life he once knew.
 
-It's not often enough that the media I consume gels with my current emotional state so thoroghly. I embrace this fiction tightly. The apathy of the main character towards his own state of affairs, a mirror to my own.
+It's not often enough that the media I consume gels with my current emotional state so thoroughly. I embrace this fiction tightly. The apathy of the main character towards his own state of affairs, a mirror to my own.
 
-The film begins with the tradegy of his wife's death.
+The film begins with the tragedy of his wife's death.
 
 > Dear Champion Vending Company, this letter is in regards to a poor vending experience at St. Andreas. I put five quarters in your machine and proceeded to push B2, which should have given me peanut M&M’s, regrettably it did not. I found this upsetting as I was very hungry and also my wife had died ten minutes earlier. I’m not saying that was your fault, I just want to be thorough. Julia was a good person, she worked with special needs children. She snorted when she laughed, other than that I don’t think I knew who she really was. And now that she’s gone I don’t really feel sad or pain.
 
@@ -33,7 +33,7 @@ I didn't feel sadness or pain towards my own circumstances. The actual problems 
 
 I stood in my room and foolishly believed I had experienced all of life's offerings. I'd gone through university and graduated. I'd landed a job in my field of study. I'd had a long term relationship. Currently I was incredibly single, but still, I'd experienced that. I'd moved out of my parents home. I'd paid for the roof over my own head. Can't touch this, umbilical cord.
 
-And then I was hit with a deep sense of [is that all there is.](https://www.youtube.com/watch?v=QPP6UgkmyM4) Is it really just shitty jobs and shitty rented accommodation until death? But unlike Peggy Lee I didn't break out the booze. No, for a brief flicker of a moment, I felt I could end it all. What's left for me to really _do_, anyway? It was hardly a serious contemplation. My apathy for the day was still in full swing, these were just obstrusive thoughts. The quarter life crisis [kicks like a mule with his balls wrapped in duct tape.](https://www.youtube.com/watch?v=lKm-SsGmSlY)
+And then I was hit with a deep sense of [is that all there is.](https://www.youtube.com/watch?v=QPP6UgkmyM4) Is it really just shitty jobs and shitty rented accommodation until death? But unlike Peggy Lee I didn't break out the booze. No, for a brief flicker of a moment, I felt I could end it all. What's left for me to really _do_, anyway? It was hardly a serious contemplation. My apathy for the day was still in full swing, these were just obtrusive thoughts. The quarter life crisis [kicks like a mule with his balls wrapped in duct tape.](https://www.youtube.com/watch?v=lKm-SsGmSlY)
 
 The shitty web developer company terminated my contract at just under six months.
 

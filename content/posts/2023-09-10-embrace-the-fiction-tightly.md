@@ -33,7 +33,7 @@ I didn't feel sadness or pain towards my own circumstances. The actual problems 
 
 I stood in my room and foolishly believed I had experienced all of life's offerings. I'd gone through university and graduated. I'd landed a job in my field of study. I'd had a long term relationship. Currently I was incredibly single, but still, I'd experienced that. I'd moved out of my parents home. I'd paid for the roof over my own head. Can't touch this, umbilical cord.
 
-And then I was hit with a deep sense of [is that all there is.](https://www.youtube.com/watch?v=QPP6UgkmyM4) Is it really just shitty jobs and shitty rented accommodation until death? But unlike Peggy Lee I didn't break out the booze. No, for a brief flicker of a moment, I felt I could end it all. What's left for me to really _do_, anyway? It was hardly a serious contemplation. My apathy for the day was still in full swing, these were just obtrusive thoughts. The quarter life crisis [kicks like a mule with his balls wrapped in duct tape.](https://www.youtube.com/watch?v=lKm-SsGmSlY)
+And then I was hit with a deep sense of [is that all there is.](https://www.youtube.com/watch?v=QPP6UgkmyM4) Is it really just shitty jobs and shitty rentals until death? But unlike Peggy Lee I didn't break out the booze. No, for a brief flicker of a moment, I felt I could end it all. What's left for me to really _do_, anyway? It was hardly a serious contemplation. My apathy for the day was still in full swing, these were just obtrusive thoughts. The quarter life crisis [kicks like a mule with his balls wrapped in duct tape.](https://www.youtube.com/watch?v=lKm-SsGmSlY)
 
 The shitty web developer company terminated my contract at just under six months.
 

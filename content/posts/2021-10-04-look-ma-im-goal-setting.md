@@ -49,6 +49,5 @@ I’ve not owned an Epic before but thanks to this [doc](sorry-internal-circleci
 > Own an Epic. I know [Ronald Ekambi](https://github.com/roncodingenthusiast) needs to give up the our teams' tech debt Epic before he traitorously jumps ship to the $other_team at the end of the quarter - so I’m penciling that in as the date for now.
 
 # Music
-
 [![](https://img.youtube.com/vi/6AzuDgM69TI/default.jpg)](https://youtu.be/6AzuDgM69TI)
 

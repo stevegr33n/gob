@@ -3,9 +3,11 @@ title: "Steve Green"
 date: 2023-03-10T22:04:27Z
 ---
 
-Hello I'm Steve Green, this is where I write stuff.
+Hello I'm Steve Green.
+I like to write about memories.
+I sometimes write about tech.
 
-I've written software for [CircleCI](https://circleci.com), [LLoyds Bank](https://www.lloydsbank.com) and [One Of Us](https://www.weacceptyou.com).
+The companies I'm most proud of working for are [CircleCI](https://circleci.com), [LLoyds Bank](https://www.lloydsbank.com) and [One Of Us](https://www.weacceptyou.com).
 
 Send memes to steve@greengob.com
 

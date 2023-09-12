@@ -1,5 +1,5 @@
 ---
-title: "2023 12 09 I'd Rather Watch Paint Dry With You"
+title: "I'd Rather Watch Paint Dry With You"
 date: 2023-09-12T22:21:27+01:00
 draft: false
 tags: ["personal"] 

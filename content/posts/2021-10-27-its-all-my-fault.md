@@ -50,7 +50,7 @@ Uninstall.
 Reinstall.  
 Play.
 
-Hey look - I’m me, _I_ make the decisions around here. What _I_ say goes. Today I’m not playing. OK, I played today - but tomorrow is another day and I won't tomorrow. OK, I played tomorrow too. What an odd sensation, not wanting to do something and yet doing it anyway. Perhaps more often than not, I'm just a passenger in meat sack.
+Hey look - I’m me, _I_ make the decisions around here. What _I_ say goes. Today I’m not playing. OK, I played today - but tomorrow is another day and I won't tomorrow. OK, I played tomorrow too. What an odd sensation, not wanting to do something and yet doing it anyway. Perhaps more often than not, I'm just a passenger in a meat sack.
 
 # Music
 [![](https://img.youtube.com/vi/GMtFwK4vnNE/default.jpg)](https://youtu.be/GMtFwK4vnNE)

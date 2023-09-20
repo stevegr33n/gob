@@ -1,5 +1,5 @@
 ---
-title: "I'd Rather Watch Paint Dry With You"
+title: "I'd rather watch paint dry with you"
 date: 2023-09-12T22:21:27+01:00
 draft: false
 tags: ["personal"] 

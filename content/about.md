@@ -11,6 +11,8 @@ The companies I'm most proud of working for are [CircleCI](https://circleci.com)
 
 Send memes to steve@greengob.com
 
+[Watch me commute to work.](https://www.youtube.com/watch?v=e3QIhtLQpb8)
+
 ![me](/img/me-red-black.jpg)
 
 
